@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Gabriel Luigi M. Gutierrez",
+    "age": 21,
+    "program": "BSCPE"
+  },
+  {
+    "id": 2,
+    "name": "John Anthony U. Lontoc",
+    "age": 21,
+    "program": "BSCPE"
+  },
+  {
+    "id": 3,
+    "name": "Jeorge Assis A. Malabanan",
+    "age": 23,
+    "program": "BSCPE"
+  },
+  {
+    "id": 4,
+    "name": "James Kian I. Don",
+    "age": 21,
+    "program": "BSCPE"
+  },
+  {
+    "id": 5,
+    "name": "Ericka G. Villena",
+    "age": 35,
+    "program": "BSCPE"
+  },
+  {
+    "id": 6,
+    "name": "Amiela A. Artillaga",
+    "age": 37,
+    "program": "BSCPE"
+  },
+  {
+    "id": 7,
+    "name": "John Paul L. Vibal",
+    "age": 30,
+    "program": "BSCPE"
+  },
+  {
+    "id": 8,
+    "name": "Jay Ar M. Macalintal",
+    "age": 29,
+    "program": "BSCPE"
+  },
+  {
+    "id": 9,
+    "name": "Johndel Brian Matalog",
+    "age": 69,
+    "program": "BSCPE"
+  },
+  {
+    "id": 10,
+    "name": "Mark Jhon Aurinto",
+    "age": 28,
+    "program": "BSCPE"
+  },
+  {
+    "id": 11,
+    "name": "Gian Francis Hachachoco",
+    "age": 60,
+    "program": "BSCPE"
+  },
+  {
+    "id": 12,
+    "name": "David Marasigan",
+    "age": 20,
+    "program": "BSCPE"
+  },
+  {
+    "id": 13,
+    "name": "Dety Pagsinuhin",
+    "age": 20,
+    "program": "BSCPE"
+  },
+  {
+    "id": 14,
+    "name": "King Arthur Ragayday",
+    "age": 21,
+    "program": "BSCPE"
+  },
+  {
+    "id": 15,
+    "name": "Lennard Monteiro",
+    "age": 23,
+    "program": "BSCPE"
+  },
+  {
+    "id": 16,
+    "name": "Darren Ishi A. Doctora",
+    "age": 30,
+    "program": "BSCPE"
+  },
+  {
+    "id": 17,
+    "name": "Aira Loraine De Castro",
+    "age": 20,
+    "program": "BSCPE"
+  },
+  {
+    "id": 18,
+    "name": "Loraine Tarlac",
+    "age": 21,
+    "program": "BSCPE"
+  },
+  {
+    "id": 19,
+    "name": "Rhea Mendoza",
+    "age": 21,
+    "program": "BSCPE"
+  },
+  {
+    "id": 20,
+    "name": "Rafael Leyson",
+    "age": 22,
+    "program": "BSCPE"
+  },
+  {
+    "id": 22,
+    "name": "Josep Dimatibag",
+    "age": 24,
+    "program": "BSIT"
+  },
+  {
+    "id": 23,
+    "name": "Jeric Hernandez",
+    "age": 22,
+    "program": "BSCPE"
+  }
+]
